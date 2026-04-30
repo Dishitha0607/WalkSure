@@ -122,6 +122,16 @@ npm start
 2. Choose route type (standard / safe)
 3. View simulated navigation
 4. Submit safety reports
+---
+
+1. Main Home Page:
+   ![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/main_screen.png)
+
+2. Emergency conatcts and Report Safety Status features are added:
+   ![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/add_features.png)
+
+3.SOS message and live location that is sent to the emergency conntact:
+   ![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/sos.png)
 
 ---
 
