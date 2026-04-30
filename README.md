@@ -128,10 +128,10 @@ npm start
    ![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/main_screen.png)
 
 2. Emergency conatcts and Report Safety Status features are added:
-   ![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/add_features.png)
+![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/add_features.png)
 
 3.SOS message and live location that is sent to the emergency conntact:
-   ![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/sos.png)
+![Alt Text](https://github.com/Dishitha0607/WalkSure/blob/2b25c3a1349e1c047cbe7905f60ee73aa64f4cd6/pictures/sos.png)
 
 ---
 
